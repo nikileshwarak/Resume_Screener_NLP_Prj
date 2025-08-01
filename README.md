@@ -1,5 +1,3 @@
-This project predicts the professional category of a given resume (e.g., Data Science, HR, Marketing, etc.) using machine learning and NLP.
-
 ## Problem:
 When companies or job platforms (like Naukri, LinkedIn, etc.) receive thousands of resumes, it's time-consuming to manually read and categorize them into job domains.
 
